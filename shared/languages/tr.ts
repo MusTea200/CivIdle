@@ -1839,4 +1839,5 @@ export const TR = {
    ServerBackup: "Sunucu Yedeği",
    ServerBackupDescHTML: "<b>Kalıcı büyük insanlarınızı</b> ve <b>çağ bilgeliğinizi</b> sunucuya yedekleyebilirsiniz. Bu işlem yeniden doğduğunuzda otomatik olarak yapılır. Sunucu yedekleri, kayıt dosyanız bozulduğunda ve yerel yedeğiniz olmadığında yararlı olabilir",
    OperationSuccessful: "İşlem Başarılı",
+   CrossPlatformSaveDescHTML: "İlerlemenizi (hesap sıralaması ve destekçi paketi dahil) mobil cihazlarla senkronize etmek için Steam'de <b>Cross Platform Cloud Save (Çapraz Platform Bulut Kaydı)</b> almanız gerekmektedir.",
 };
